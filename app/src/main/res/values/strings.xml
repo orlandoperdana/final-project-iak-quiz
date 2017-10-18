@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DetectiveConanQuiz</string>
+    <string name="question1title">Pertanyaan 1</string>
+    <string name="question2title">Pertanyaan 2</string>
+    <string name="question3title">Pertanyaan 3</string>
+    <string name="question4title">Pertanyaan 4</string>
+    <string name="question5title">Pertanyaan 5</string>
+    <string name="question1">Dibawah ini 2 (dua) yang merupakan anggota Detektif Cilik:</string>
+    <string name="answerRan">Ran Mouri</string>
+    <string name="answerMitsuhiko">Mitsuhiko Tsurubaya</string>
+    <string name="answerAyumi">Ayumi Yoshida</string>
+    <string name="question2">Siapa yang pertama kali mengetahui identitas asli Conan?</string>
+    <string name="answerAi">Ai Haibara</string>
+    <string name="answerAgasa">Prof Agasa</string>
+    <string name="answerKogoro">Kogoro Mouri</string>
+    <string name="question3">Apa nama asli dari Edogawa Conan?</string>
+    <string name="FullNameHint">Inisial : SK</string>
+    <string name="question4">Apa nama racun yang membuat tubuh Shinichi mengecil?</string>
+    <string name="answerAptp">APTP 4869</string>
+    <string name="answerPtxd">PTXD 4887</string>
+    <string name="answerAptx">APTX 4869</string>
+    <string name="question5">2 (dua) diantara ini adalah pemimpin Organisasi Hitam:</string>
+    <string name="submit">Submit</string>
+    <string name="answerGin">Gin</string>
+    <string name="answerVodka">Vodka</string>
+    <string name="answerJodie">Jodie</string>
+</resources>
